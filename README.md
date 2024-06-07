@@ -23,8 +23,9 @@ Un comando específico permite ingresar una nueva contraseña que reemplaza a la
 
 Aqui se encuentra una imagen de funcionamiento del keypad y del display de 4 digitos
 
+VIDEO DE EXPLICACION DEL PROGRAMA
 
-
+https://youtu.be/4VNrx10fvoU
 
 
 
