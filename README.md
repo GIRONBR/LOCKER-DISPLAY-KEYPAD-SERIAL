@@ -25,7 +25,7 @@ Aqui se encuentra una imagen de funcionamiento del keypad y del display de 4 dig
 
 VIDEO DE EXPLICACION DEL PROGRAMA
 
-https://youtu.be/4VNrx10fvoU
+https://youtu.be/VlfAXq_BEgc
 
 
 
